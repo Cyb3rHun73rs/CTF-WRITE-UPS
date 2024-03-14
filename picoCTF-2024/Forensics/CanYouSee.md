@@ -20,7 +20,7 @@ get metadata about the image
 
     attribute url : cGljb0NURntNRTc0RDQ3QV9ISUREM05fYjMyMDQwYjh9Cg==
 
-decript in base 64
+decode from base64
 
     $ echo "cGljb0NURntNRTc0RDQ3QV9ISUREM05fYjMyMDQwYjh9Cg==" | base64 -d
 
