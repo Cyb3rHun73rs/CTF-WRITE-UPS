@@ -7,20 +7,24 @@
 ## Description
 CanYouSee
 
+challenge file [Here](https://artifacts.picoctf.net/c_titan/128/unknown.zip)
+
 ## Hints
 How about some hide and seek?
 
 ## Approach
-download the file and unzip it
+1. download the file and unzip it
 
      $ unzip unknown.zip 
-get metadata about the image
+2. get metadata about the image
 
-    $ exiftool ukn_reality.jpg
+       $ exiftool ukn_reality.jpg
 
-    attribute url : cGljb0NURntNRTc0RDQ3QV9ISUREM05fYjMyMDQwYjh9Cg==
+ 3. there is someting intresting in attribute; it's a base64 encoded data
 
-decode from base64
+      
+
+4. decode from base64
 
     $ echo "cGljb0NURntNRTc0RDQ3QV9ISUREM05fYjMyMDQwYjh9Cg==" | base64 -d
 
