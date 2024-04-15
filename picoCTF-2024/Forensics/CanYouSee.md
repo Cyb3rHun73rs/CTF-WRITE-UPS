@@ -13,6 +13,7 @@ challenge file [Here](https://artifacts.picoctf.net/c_titan/128/unknown.zip)
 How about some hide and seek?
 
 ## Approach
+"The challenge, devised by **Mubarak Mikail**, is straightforward: it tests your ability to extract metadata from images and employ base64 decoding techniques."
 1. download the file and unzip it
 
      $ unzip unknown.zip 
