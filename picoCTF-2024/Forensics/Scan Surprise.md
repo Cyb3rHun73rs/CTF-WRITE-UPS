@@ -38,5 +38,5 @@ There are many ways of scanning QR codes
 
 ### solved by 
 * git hub &rarr; [Samuel](https://github.com/ssammueel)<br>
-* potfolio &rarr; [Samuel potfolio](https://ssammueel.github.io/samuel.github.io/)
+* portfolio &rarr; [Samuel potfolio](https://ssammueel.github.io/samuel.github.io/)
 
