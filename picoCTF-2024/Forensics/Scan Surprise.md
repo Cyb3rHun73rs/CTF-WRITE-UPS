@@ -24,6 +24,7 @@ challenge file [challenge.zip](https://artifacts.picoctf.net/c_atlas/14/challeng
 2. you are given a QR code
 
 ![Screenshot (405)](https://github.com/Cyb3rHun73rs/CTF-WRITE-UPS/assets/159914996/68b467eb-2cfa-4cf5-a62f-3f261f5f2b75)
+
 3. scan the QR code 
 
 There are many ways of scanning QR codes
