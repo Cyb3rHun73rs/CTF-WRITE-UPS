@@ -22,11 +22,16 @@ How about some hide and seek?
 
  3. there is someting intresting in attribute; it's a base64 encoded data
 
+![Screenshot (406)](https://github.com/Cyb3rHun73rs/CTF-WRITE-UPS/assets/159914996/974a994d-eab2-4498-a9d6-3969242a5a6b)
       
 
 4. decode from base64
 
-    $ echo "cGljb0NURntNRTc0RDQ3QV9ISUREM05fYjMyMDQwYjh9Cg==" | base64 -d
+![one](https://github.com/Cyb3rHun73rs/CTF-WRITE-UPS/assets/159914996/0331b724-ffe4-49f5-8eb2-29e379cb7c15) 
 
 ## flag
     picoCTF{ME74D47A_HIDD3N_b32040b8}
+
+### solved by 
+* git hub &rarr; [Samuel](https://github.com/ssammueel)<br>
+* portfolio &rarr; [Samuel portfolio](https://ssammueel.github.io/samuel.github.io/)
