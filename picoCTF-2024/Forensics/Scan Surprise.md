@@ -17,12 +17,14 @@ challenge file [challenge.zip](https://artifacts.picoctf.net/c_atlas/14/challeng
 
 ## Approach
 &rarr; The challenge proved straightforward, merely requiring the user to scan a QR code in order to obtain the flag 
-download the file and unzip it
+
+1. download the file and unzip it
 
      $ unzip challenge.zip 
-you are given a QR code
+2. you are given a QR code
 
 ![Screenshot (405)](https://github.com/Cyb3rHun73rs/CTF-WRITE-UPS/assets/159914996/68b467eb-2cfa-4cf5-a62f-3f261f5f2b75)
+3. scan the QR code 
 
 There are many ways of scanning QR codes
 * Smartphone Cameras
