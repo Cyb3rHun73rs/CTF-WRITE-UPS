@@ -47,7 +47,7 @@ This created a new file with JFIF header.
 
 I opened the new image with the linux default image viewer and the its contents were the flag.
 
-## Key takeaways
+## Key take-aways
 1. Endianness refers to the order in which bytes are stored within larger numerical values (such as integers or floating-point numbers) in memory or in binary files. There are two main types of endianness: big-endian and little-endian.
 2. Manually reversing each 4-bytes of a large file is tideous hence the need of scripting. e.g. in Python
 3. For unknown files, file headers are helpful to finding the clue of the file type.
