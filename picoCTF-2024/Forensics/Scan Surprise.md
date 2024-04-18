@@ -32,6 +32,7 @@ There are many ways of scanning QR codes
 * QR Code Scanner Apps eg QR Code Reader & Barcode Scanner
 * QR Code Scanners in Web Browsers eg Google Chrome, safari
 
+the output of the scan was the flag :smile:
 
 ## flag
     picoCTF{p33k_@_b00_0194a007}
